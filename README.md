@@ -1,4 +1,4 @@
-# ExamForge AI ⚡
+# ExamForge AI
 ### A Dual-Adaptive Intelligent Examination and Personalized Learning Platform Using Prompt Engineering
 
 > **Course:** Prompt Engineering (20 Marks Component)  
